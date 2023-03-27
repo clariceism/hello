@@ -1,2 +1,2 @@
-# Hello. My name is Clarice. And I am learning Web Accessibility.
-HTML
+# Hello!
+My name is Clarice. I am here because I am learning Web Accessibility.
