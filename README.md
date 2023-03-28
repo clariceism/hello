@@ -1,7 +1,7 @@
 # Hello!
 My name is Clarice. I am learning Web Accessibility. And HTML. And CSS. And JavaScript.
 <hr>
-<strong>Git commands for Windows</strong>
+# <strong>Git commands for Windows</strong>
 <ul>
   <li>git init: Initializes a new Git repository in the current directory.</li>
   <li>git clone <repository_url>: Downloads a copy of an existing Git repository to your local machine.</li>
